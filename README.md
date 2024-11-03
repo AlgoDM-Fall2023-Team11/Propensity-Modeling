@@ -1,4 +1,4 @@
-# PropensityModeling
+# Propensity Modeling
 Customer Intent Prediction for Experience Personalization
 
 Codelabs Link: https://codelabs-preview.appspot.com/?file_id=1rsDU3iF2XbER_z3BfGxWuKsqASbSsha0TEhlJPpSk-I#0
